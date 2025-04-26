@@ -16,7 +16,7 @@ This bootcamp runs about 4 months, 10 sprints.
 
 I love `R Programming`. (in line code)
 
-##Code block
+# Code block
 ```sql
 SELECT
 ```
